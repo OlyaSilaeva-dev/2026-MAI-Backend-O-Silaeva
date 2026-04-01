@@ -9,7 +9,8 @@
 
 **Пример команды:**
 ```bash
-ab -l -c 500 -n 10000 http://localhost:8080/gunicorn/
+ab -l -c 500 -n 10000 http://localhost:8080/gunicorn/ 
+```
 
 ## Тест 1: Статика (nginx)
 **URL:** `http://localhost:8080/public/test.jpg`
