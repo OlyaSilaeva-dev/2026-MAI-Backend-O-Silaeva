@@ -2,3 +2,4 @@ logs/
 *.log
 nginx.pid
 temp/
+__pycache__
